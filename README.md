@@ -44,25 +44,34 @@ Options:
 
 `For VAD_simple
 "VAD_simple" : "Remove silence segments from a recording in the filder")
+
 -i, "--input", required=True, help="input audio file location"
+
 -o, "--output", required=True, help="output audio file location")
-    vadFolder.add_argument("-s", "--smoothing", type=float, default=1.0,
-                        help="smoothing window size in seconds.")
+                        
 -w, "--weight", type=float, default=0.5, help="weight factor in (0, 1)"
+
 --classifier", required=True, help="Classifier to use (filename)"
--t, --threshold, type=float, default=10.0
--s", "--smoothing", type=float, default=1.0,
+
+-s, "--smoothing", type=float, default=1.0,
                            help="smoothing window size in seconds.")
+                           
 
 For VAD_simple_merged:
+
 -i, "--input", required=True, help="input audio file location"
--o, "--output", required=True, help="output audio file location")
-    vadFolder.add_argument("-s", "--smoothing", type=float, default=1.0,
-                        help="smoothing window size in seconds.")
--w, "--weight", type=float, default=0.5, help="weight factor in (0, 1)"
+
+-o, "--output", required=True, help="output audio file location"
+
+    
+-w, "--weight", type=float, default=0.5, help="weight factor in (0, 1)
+
 --classifier", required=True, help="Classifier to use (filename)"
+
 -t, --threshold, type=float, default=10.0
--s", "--smoothing", type=float, default=1.0,
+
+-s, "--smoothing", type=float, default=1.0,
                            help="smoothing window size in seconds.")
--t", "--threshold", type=float, default=10.0, help="max segment size in seconds.")`
+                           
+-t, "--threshold", type=float, default=10.0, help="max segment size in seconds.")`
 
