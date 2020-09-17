@@ -1,0 +1,17 @@
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_AToUwCP1wHY	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_AToUwCP1wHY
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_BzExgeLrf-w	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_BzExgeLrf-w
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_czhUGrb1Rms	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_czhUGrb1Rms
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_hsjH22Mp6xo	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_hsjH22Mp6xo
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_kPCASBSgxjE	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_kPCASBSgxjE
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_KTjhdapU4k0	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_KTjhdapU4k0
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_M7fecxjjmL4	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_M7fecxjjmL4
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_MFTyGYtsnjk	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_MFTyGYtsnjk
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_QRG_ASIpHlI	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_QRG_ASIpHlI
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_tHsFRWuAciw	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_tHsFRWuAciw
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_vEC2nWawBxU	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_vEC2nWawBxU
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_VGFydnaYyrA	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_VGFydnaYyrA
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_xeGSeFSIFj4	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_xeGSeFSIFj4
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_XH99c-h3ryQ	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_XH99c-h3ryQ
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_xIYzC3dKjgE	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_xIYzC3dKjgE
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_yq3Rtt6mVTE	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_yq3Rtt6mVTE
+/alt/asr/shchowdhury/vad/vad_simple_pipeline/data_out_raw2/prep_Zzao2Fnbsxw	/alt/asr/shchowdhury/vad/vad_simple_pipeline/inseg/prep_Zzao2Fnbsxw
