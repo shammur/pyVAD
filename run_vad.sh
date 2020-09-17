@@ -41,7 +41,7 @@ python src/vad_simple.py VAD_simple -i $INPUT_FOLDER -o $OUTPUT_FOLDER --smoothi
 echo "Done Spliting"
 else
 
-python src/vad_simple.py VAD_simple_merged -i $INPUT_FOLDER -o $OUTPUT_FOLDER --smoothing $SMOOTHING_FACTOR --weight $WEIGHT_FACTOR --classifier /alt/asr/shchowdhury/vad/vad_simple_pipeline/models/svm_rbf_sm
+python src/vad_simple.py VAD_simple_merged -i $INPUT_FOLDER -o $OUTPUT_FOLDER --smoothing $SMOOTHING_FACTOR --weight $WEIGHT_FACTOR --classifier /alt/asr/shchowdhury/vad/vad_simple_pipeline/models/svm_rbf_sm -t $THRESHOLD
 echo "Done Spliting and Merged by Threshold"
 fi
 
