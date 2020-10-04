@@ -27,8 +27,8 @@ THRESHOLD=$3
 TASK_ID="VAD_TEST_1"
 INPUT_FOLDER=$WORK_PATH"/"$in
 OUTPUT_FOLDER=$WORK_PATH"/"$out #data_out_merged/"
-SMOOTHING_FACTOR=1.0
-WEIGHT_FACTOR=0.4
+SMOOTHING_FACTOR=1.0 #smooth window (in seconds)
+WEIGHT_FACTOR=0.4 #weight factor (0 < weight < 1) :the higher, the more strict
 #MODEL_FILE=
 
 VAD=1
